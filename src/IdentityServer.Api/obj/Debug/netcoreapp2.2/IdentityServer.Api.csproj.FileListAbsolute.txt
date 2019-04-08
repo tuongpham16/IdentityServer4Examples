@@ -1,0 +1,14 @@
+D:\tuongpv\Projects\IdentityServer4Examples\src\IdentityServer.Api\bin\Debug\netcoreapp2.2\IdentityServer.Api.deps.json
+D:\tuongpv\Projects\IdentityServer4Examples\src\IdentityServer.Api\bin\Debug\netcoreapp2.2\IdentityServer.Api.runtimeconfig.json
+D:\tuongpv\Projects\IdentityServer4Examples\src\IdentityServer.Api\bin\Debug\netcoreapp2.2\IdentityServer.Api.runtimeconfig.dev.json
+D:\tuongpv\Projects\IdentityServer4Examples\src\IdentityServer.Api\bin\Debug\netcoreapp2.2\IdentityServer.Api.dll
+D:\tuongpv\Projects\IdentityServer4Examples\src\IdentityServer.Api\obj\Debug\netcoreapp2.2\IdentityServer.Api.csprojAssemblyReference.cache
+D:\tuongpv\Projects\IdentityServer4Examples\src\IdentityServer.Api\obj\Debug\netcoreapp2.2\IdentityServer.Api.csproj.CoreCompileInputs.cache
+D:\tuongpv\Projects\IdentityServer4Examples\src\IdentityServer.Api\obj\Debug\netcoreapp2.2\IdentityServer.Api.RazorAssemblyInfo.cache
+D:\tuongpv\Projects\IdentityServer4Examples\src\IdentityServer.Api\obj\Debug\netcoreapp2.2\IdentityServer.Api.RazorAssemblyInfo.cs
+D:\tuongpv\Projects\IdentityServer4Examples\src\IdentityServer.Api\obj\Debug\netcoreapp2.2\IdentityServer.Api.AssemblyInfoInputs.cache
+D:\tuongpv\Projects\IdentityServer4Examples\src\IdentityServer.Api\obj\Debug\netcoreapp2.2\IdentityServer.Api.AssemblyInfo.cs
+D:\tuongpv\Projects\IdentityServer4Examples\src\IdentityServer.Api\obj\Debug\netcoreapp2.2\IdentityServer.Api.RazorTargetAssemblyInfo.cache
+D:\tuongpv\Projects\IdentityServer4Examples\src\IdentityServer.Api\bin\Debug\netcoreapp2.2\IdentityServer.Api.pdb
+D:\tuongpv\Projects\IdentityServer4Examples\src\IdentityServer.Api\obj\Debug\netcoreapp2.2\IdentityServer.Api.dll
+D:\tuongpv\Projects\IdentityServer4Examples\src\IdentityServer.Api\obj\Debug\netcoreapp2.2\IdentityServer.Api.pdb
